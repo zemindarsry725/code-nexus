@@ -1,1 +1,1 @@
-IntegrateComponents
+игровой фреймворк
